@@ -38,3 +38,8 @@ No requirements.
 |------|-------------|
 | app\_service\_plan\_id | App service plan reference |
 | app\_url | App default hostname |
+
+
+## ToDos 
+
+enable cors config
